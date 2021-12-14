@@ -1,5 +1,5 @@
 {
-    "name": "yectep/phpspreadsheet-bundle",
+    "name": "vitorfelipecl/phpspreadsheet-bundle",
     "description": "A Symfony bundle to integrate with PHPOffice's PhpSpreadsheet library",
     "type": "symfony-bundle",
     "license": "MIT",
